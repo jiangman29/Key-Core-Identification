@@ -16,7 +16,7 @@ Appendix 2: Identified Key-Core Technologies
         Purpose: This dataset provides the finalized list of Key-Core technologies with detailed scoring and semantic information.
 
 Usage:
-Researchers and practitioners can use these datasets to:
+        Researchers and practitioners can use these datasets to:
         Explore Key-Core technologies in the biosensor field.
         Analyze structure-function associations and identify technological trends.
         Support further studies in innovation management and strategy development.
