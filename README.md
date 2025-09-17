@@ -21,7 +21,4 @@ Usage:
         Analyze structure-function associations and identify technological trends.
         Support further studies in innovation management and strategy development.
 
-Citation:
-If you use this dataset in your research, please cite the associated paper:
-Identifying Key-Core Technologies in Biosensor Development: A Structure-Function Perspective.
 
